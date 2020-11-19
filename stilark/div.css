@@ -7,7 +7,6 @@
 }
 .topptekst {
   width:70%; /*vidde bilde*/
-  height:12%; /*høyde bilde*/
   padding: 5px; /*avstand mellom bokskant og innhold*/
   margin: auto;/*like stor høyre og venstremarg*/
 }
