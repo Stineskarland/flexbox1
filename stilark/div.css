@@ -1,30 +1,30 @@
 .innpakning {
-  width:100%; /*innpakningens bredde*/
+  width:70%; /*innpakningens bredde*/
   background-color:#FFFFFF;/*hvitfarge*/
   margin: auto; /*like stor høyre og venstremarg*/
   display:flex; /*angir at vi vil bruke flexbox*/
   flex-direction:column;/*plasserer bokser i en kolonne*/
 }
 .topptekst {
-  width:100%; /*vidde bilde*/
+  width:70%; /*vidde bilde*/
   height:12%; /*høyde bilde*/
   padding: 5px; /*avstand mellom bokskant og innhold*/
   margin: 5px;/*luft rundt overskrift-/topptekstboks*/
 }
 .meny{
-  width:100%; /*vidde meny*/
+  width:70%%; /*vidde meny*/
   background-color: #339933; /*grønn farge*/
   padding:none; /*avstand mellom bokskant og innhold*/
   margin:none; /*luft rundt menyboks*/
 }
 .innhold {
-  width:80%;/*vidde innhold*/
+  width:50%;/*vidde innhold*/
   background-color:#909090; /*en lys gråfarge*/ 
   padding:auto; /*avstand mellom bokskant og innhold*/
   margin:5px; /*luft rundt menyboks*/
 }
 .bunntekst{
-  width:100%;/*vidde bunntekst*/
+  width:70%;/*vidde bunntekst*/
    height:120px; /*overskrift-/ toppeksthøyde*/
   background-color:#339933; /*en lys gråfarge*/
   padding: 5px; /*avstand mellom bokskant og innhold*/
