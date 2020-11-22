@@ -6,19 +6,20 @@
  align-items:center; 
  justify-content:center;
 .topptekst {
- height:100%;
+ width:2480px;
+ height:358px;
  background-position:center;
  background-repeat:no-repeat;
  background-size:cover;
  position:relative;
 }
 .topp
-height:50px;
+height:358px;
 }
 .meny{
  justify-content:flex-start;
-  width:100%; /*vidde meny*/
-  background-color: #339933; /*grønn farge*/
+  width:2480px; /*vidde meny*/
+  background-color: #336600; /*grønn farge*/
   padding:5px; /*avstand mellom bokskant og innhold*/
   margin:auto;/*like stor høyre og venstremarg*/
 }
@@ -59,7 +60,7 @@ height:50px;
  .tekst3
  .bunntekst{ 
   width:100%; /*vidde meny*/
-  background-color: #339933; /*grønn farge*/
+  background-color: #336600; /*grønn farge*/
   padding:5px; /*avstand mellom bokskant og innhold*/
   margin:auto;/*like stor høyre og venstremarg*/
   
