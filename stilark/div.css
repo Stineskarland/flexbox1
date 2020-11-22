@@ -1,9 +1,7 @@
 .innpakning{
   width:2480px;
   height:3508px;
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction:row;
+
 .topptekst {
  width:2480px;
  height:358px;
@@ -35,6 +33,10 @@ height:358px;
   padding: 5px; /*avstand mellom bokskant og innhold*/
   margin:auto;/*like stor høyre og venstremarg*/
  }
+.flex1 {
+    display: flex;
+  flex-direction:row;
+}
  .bilde2{
   width:920px;
 
@@ -42,7 +44,10 @@ height:358px;
  .tekst1{
   width:920px;
  }
-
+.flex2 {
+    display: flex;
+  flex-direction:row;
+}
  .overskrift2{
    width:920px;
  }
