@@ -1,3 +1,8 @@
+.innpakning{
+ display:flex;
+ flex-direction:column;
+ align-items:center; 
+ justify-content:center;
 .topptekst {
  width:70%;
  height:100%;
@@ -29,10 +34,6 @@ height:350px;
   background-color:#FFFFFF; /*hvit*/
   padding: 5px; /*avstand mellom bokskant og innhold*/
   margin:auto;/*like stor høyre og venstremarg*/
- .flex1{
-  display:flex;
-  flex-direction:row;
-  
  }
  .bilde2{
  }
