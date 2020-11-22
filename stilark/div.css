@@ -16,7 +16,7 @@
 height:358px;
 }
 .meny{
-justify-content:center;
+ justify-content:flex-start;
   width:2480px; /*vidde meny*/
   background-color: #336600; /*grønn farge*/
   padding:5px; /*avstand mellom bokskant og innhold*/
@@ -30,8 +30,7 @@ justify-content:center;
  
 }
 .ingress{
-  width:1860px;/*vidde bunntekst*/
-   height:120px; /*overskrift-/ toppeksthøyde*/
+  width:1860px;/*vidde bunntekst*
   background-color:#ffffff; /*hvit*/
   padding: 5px; /*avstand mellom bokskant og innhold*/
   margin:auto;/*like stor høyre og venstremarg*/
@@ -40,7 +39,6 @@ justify-content:center;
   width:1860px;
  flex-display:flex;
   flex-direction:row;
-  justify-content:center;
  }
  .tekst1{
   width:1860px;
@@ -49,16 +47,17 @@ justify-content:center;
  .flex2{
   flex-display:flex;
   flex-direction:row;
-  justify-content:center;
-   width:1860px
+   width:1860px;
  }
  .overskrift2{
-   width:1860px
+   width:1860px;
  }
 .tekst2{
-  width:1860px
+  width:1860px;
  }
  .tekst3{
+  width:1860px;
+   background-color:#090909; /*hvit*/
 }
  .bunntekst{ 
   width:2480; /*vidde bunntekst*/
