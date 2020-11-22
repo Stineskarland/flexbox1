@@ -1,9 +1,10 @@
 .topptekst {
  heigh:100%;
-  background-position:center;
-  background-repeat:no-repeat;
-  background-size:cover;
-  position:relative;
+ background-image: url("bilder/bilde1.jpeg" alt="Bilde 1");
+ background-position:center;
+ background-repeat:no-repeat;
+ background-size:cover;
+ position:relative;
 }
 .topp
 height:350px;
@@ -14,15 +15,21 @@ height:350px;
   padding:5px; /*avstand mellom bokskant og innhold*/
   margin:auto;/*like stor høyre og venstremarg*/
 }
-.innhold {
+.overskrift {
   width:50%;/*vidde innhold*/
   background-color:#909090; /*en lys gråfarge*/ 
   padding:5px; /*avstand mellom bokskant og innhold*/
   margin:auto; /*like stor høyre og venstremarg*/
 }
-.bunntekst{
+.ingress{
   width:70%;/*vidde bunntekst*/
    height:120px; /*overskrift-/ toppeksthøyde*/
   background-color:#339933; /*en lys gråfarge*/
   padding: 5px; /*avstand mellom bokskant og innhold*/
   margin:auto;/*like stor høyre og venstremarg*/
+ .flex1{
+ }
+ .flex2{
+ }
+ .bunntekst{
+ }
