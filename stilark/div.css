@@ -22,7 +22,7 @@ height:100px;
 }
 .overskrift1 {
   width:70%;/*vidde innhold*/
-  background-color:#FFFFFF; /*hvit*/ 
+  background-color:#ffffff; /*hvit*/ 
   padding:5px; /*avstand mellom bokskant og innhold*/
   margin:auto; /*like stor høyre og venstremarg*/
  
@@ -30,7 +30,7 @@ height:100px;
 .ingress{
   width:70%;/*vidde bunntekst*/
    height:120px; /*overskrift-/ toppeksthøyde*/
-  background-color:#FFFFFF; /*hvit*/
+  background-color:#ffffff; /*hvit*/
   padding: 5px; /*avstand mellom bokskant og innhold*/
   margin:auto;/*like stor høyre og venstremarg*/
  }
