@@ -4,7 +4,6 @@
  display:flex;
  flex-direction:column;
  align-items:center; 
- justify-content:center;
 .topptekst {
  width:2480px;
  height:358px;
@@ -17,7 +16,7 @@
 height:358px;
 }
 .meny{
- justify-content:flex-start;
+align-items:flex-start;
   width:2480px; /*vidde meny*/
   background-color: #336600; /*grønn farge*/
   padding:5px; /*avstand mellom bokskant og innhold*/
