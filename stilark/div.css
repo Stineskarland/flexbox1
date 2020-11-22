@@ -1,6 +1,9 @@
 .dokument{
  width:595px;
  height:842px;
+ display: flex;
+ flex-direction:row;
+ flex-wrap:wrap;
 .topptekst {
  width:595px;
  height:105px;
@@ -16,7 +19,6 @@
  justify-content:flex-start;
   width:595px; /*vidde meny*/
   background-color: #336600; /*grønn farge*/
-  color:FFFFFF;
   padding:5px; /*avstand mellom bokskant og innhold*/
   margin:auto;/*like stor høyre og venstremarg*/
 }
@@ -33,11 +35,6 @@
   padding: 5px; /*avstand mellom bokskant og innhold*/
   margin:auto;/*like stor høyre og venstremarg*/
  }
-.flex1 {
-    display: flex;
-  flex-direction:row;
-  flex-wrap:wrap;
-}
  .bilde2{
   width:280px;
 
@@ -45,11 +42,7 @@
  .tekst1{
   width:280px;
  }
-.flex2 {
-    display: flex;
-  flex-direction:row;
-  flex-wrap:wrap;
-}
+
  .overskrift2{
    width:920px;
  }
