@@ -1,4 +1,6 @@
 .innpakning{
+ width:2480px;
+ height:3508px;
  display:flex;
  flex-direction:column;
  align-items:center; 
@@ -11,7 +13,7 @@
  position:relative;
 }
 .topp
-height:100px;
+height:50px;
 }
 .meny{
  justify-content:flex-start;
