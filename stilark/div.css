@@ -1,7 +1,3 @@
-.innpakning{
-  width:2480px;
-  height:3508px;
-
 .topptekst {
  width:2480px;
  height:358px;
@@ -17,6 +13,7 @@ height:358px;
  justify-content:flex-start;
   width:2480px; /*vidde meny*/
   background-color: #336600; /*grønn farge*/
+  color:FFFFFF;
   padding:5px; /*avstand mellom bokskant og innhold*/
   margin:auto;/*like stor høyre og venstremarg*/
 }
@@ -62,6 +59,7 @@ height:358px;
 }
  .bunntekst{ 
   justify-content:center;
+   color:ffffff;
   width:2480px; /*vidde bunntekst*/
   background-color: #336600; /*grønn farge*/
   padding:5px; /*avstand mellom bokskant og innhold*/
