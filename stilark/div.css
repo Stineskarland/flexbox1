@@ -1,4 +1,5 @@
 .topptekst {
+ width:70%;
  height:100%;
  background-image: url("bilder/bilde1.jpeg" alt="Bilde 1");
  background-position:center;
@@ -15,21 +16,35 @@ height:350px;
   padding:5px; /*avstand mellom bokskant og innhold*/
   margin:auto;/*like stor høyre og venstremarg*/
 }
-.overskrift {
+.overskrift1 {
   width:50%;/*vidde innhold*/
   background-color:#909090; /*en lys gråfarge*/ 
   padding:5px; /*avstand mellom bokskant og innhold*/
   margin:auto; /*like stor høyre og venstremarg*/
+ 
 }
 .ingress{
-  width:70%;/*vidde bunntekst*/
+  width:50%;/*vidde bunntekst*/
    height:120px; /*overskrift-/ toppeksthøyde*/
-  background-color:#339933; /*en lys gråfarge*/
+  background-color:#FFFFFF; /*hvit*/
   padding: 5px; /*avstand mellom bokskant og innhold*/
   margin:auto;/*like stor høyre og venstremarg*/
  .flex1{
  }
+ .bilde2{
+ }
+ .tekst1{
+ }
+
  .flex2{
  }
+ .overskrift2{
+ }
+.tekst2{
+ }
+ .tekst3
  .bunntekst{
  }
+ 
+
+  
