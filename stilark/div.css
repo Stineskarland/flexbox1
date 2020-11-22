@@ -16,7 +16,7 @@
 height:358px;
 }
 .meny{
-align-items:flex-start;
+align-items:center;
   width:2480px; /*vidde meny*/
   background-color: #336600; /*grønn farge*/
   padding:5px; /*avstand mellom bokskant og innhold*/
@@ -40,8 +40,6 @@ align-items:flex-start;
  flex-display:flex;
   flex-direction:row;
   align-items:center;
-  justify-content:center;
-  
  }
  .tekst1{
  }
@@ -50,7 +48,6 @@ align-items:flex-start;
   flex-display:flex;
   flex-direction:row;
   align-items:center;
-  justify-content:center;
  }
  .overskrift2{
  }
