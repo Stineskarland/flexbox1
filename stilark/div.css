@@ -3,6 +3,7 @@
   height:3508px;
   display: flex;
   flex-wrap: wrap;
+  flex-direction:row;
 .topptekst {
  width:2480px;
  height:358px;
