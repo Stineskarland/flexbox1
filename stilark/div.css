@@ -13,17 +13,17 @@
  position:relative;
 }
 .topp
-height:350px;
+height:150px;
 }
 .meny{
-  width:70%; /*vidde meny*/
+  width:100; /*vidde meny*/
   background-color: #339933; /*grønn farge*/
   padding:5px; /*avstand mellom bokskant og innhold*/
   margin:auto;/*like stor høyre og venstremarg*/
 }
 .overskrift1 {
   width:50%;/*vidde innhold*/
-  background-color:#909090; /*en lys gråfarge*/ 
+  background-color:#FFFFFF; /*hvit*/ 
   padding:5px; /*avstand mellom bokskant og innhold*/
   margin:auto; /*like stor høyre og venstremarg*/
  
@@ -35,19 +35,33 @@ height:350px;
   padding: 5px; /*avstand mellom bokskant og innhold*/
   margin:auto;/*like stor høyre og venstremarg*/
  }
- .bilde2{
+ .flex1{
+ flex-display:flex;
+  flex-direction:row;
+  align-items:center;
+  justify-content:center;
+  
  }
  .tekst1{
  }
 
  .flex2{
+  flex-display:flex;
+  flex-direction:row;
+  align-items:center;
+  justify-content:center;
  }
  .overskrift2{
  }
 .tekst2{
  }
  .tekst3
- .bunntekst{
+ .bunntekst{ 
+  width:100%; /*vidde meny*/
+  background-color: #339933; /*grønn farge*/
+  padding:5px; /*avstand mellom bokskant og innhold*/
+  margin:auto;/*like stor høyre og venstremarg*/
+  
  }
  
 
