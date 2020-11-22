@@ -37,28 +37,23 @@ height:358px;
   margin:auto;/*like stor høyre og venstremarg*/
  }
  .bilde2{
-  width:930px;
+  width:920px;
  flex-display:flex;
   flex-direction:row;
  }
  .tekst1{
-  width:1860px;
+  width:920px;
  }
 
- .flex2{
-  flex-display:flex;
-  flex-direction:row;
-   width:1860px;
- }
  .overskrift2{
-   width:1860px;
+   width:920px;
  }
 .tekst2{
-  width:1860px;
+  width:920px;
  }
  .tekst3{
-  width:1860px;
-   background-color:#CACFD2; /*grå*/
+  width:920px;
+   background-color:#F2F3F4; /*grå*/
 }
  .bunntekst{ 
   width:2480; /*vidde bunntekst*/
