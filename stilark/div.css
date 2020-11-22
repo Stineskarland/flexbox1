@@ -1,9 +1,9 @@
 .innpakning{
- width:2480px;
- height:3508px;
- display:flex;
- flex-direction:column;
- justify-content:center; 
+  width:2480px;
+  height:3508px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 .topptekst {
  width:2480px;
  height:358px;
@@ -57,7 +57,7 @@ height:358px;
  }
  .tekst3{
   width:1860px;
-   background-color:#090909; /*hvit*/
+   background-color:#0F0F0F; /*hvit*/
 }
  .bunntekst{ 
   width:2480; /*vidde bunntekst*/
