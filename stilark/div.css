@@ -3,7 +3,8 @@
   height:3508px;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+    margin: 0 auto;
+    padding: 0 60px;
 .topptekst {
  width:2480px;
  height:358px;
@@ -57,7 +58,7 @@ height:358px;
  }
  .tekst3{
   width:1860px;
-   background-color:#0F0F0F; /*hvit*/
+   background-color:#0F0F0F; /*grå*/
 }
  .bunntekst{ 
   width:2480; /*vidde bunntekst*/
