@@ -58,10 +58,9 @@ height:358px;
    background-color:#F2F3F4; /*grå*/
 }
  .bunntekst{ 
-  justify-content:center;
-   color:ffffff;
   width:2480px; /*vidde bunntekst*/
   background-color: #336600; /*grønn farge*/
+  color:FFFFFF;
   padding:5px; /*avstand mellom bokskant og innhold*/
   margin:auto;/*like stor høyre og venstremarg*/
   
