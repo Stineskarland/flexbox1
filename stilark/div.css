@@ -3,7 +3,7 @@
  height:3508px;
  display:flex;
  flex-direction:column;
- align-items:center; 
+ justify-content:center; 
 .topptekst {
  width:2480px;
  height:358px;
@@ -16,7 +16,7 @@
 height:358px;
 }
 .meny{
-align-items:center;
+justify-content:center;
   width:2480px; /*vidde meny*/
   background-color: #336600; /*grønn farge*/
   padding:5px; /*avstand mellom bokskant og innhold*/
@@ -39,7 +39,7 @@ align-items:center;
  .flex1{
  flex-display:flex;
   flex-direction:row;
-  align-items:center;
+  justify-content:center;
  }
  .tekst1{
  }
@@ -47,7 +47,7 @@ align-items:center;
  .flex2{
   flex-display:flex;
   flex-direction:row;
-  align-items:center;
+  justify-content:center;
  }
  .overskrift2{
  }
