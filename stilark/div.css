@@ -1,7 +1,8 @@
 .innpakning{
  width:595px;
  height:842px;
- 
+ display:flex;
+ flex-direction:column;
 }
 .topptekst {
  width:595px;
