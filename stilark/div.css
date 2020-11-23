@@ -39,7 +39,7 @@ height:105px;
  }
 .flex1{
   width:446px;
- height:305px;
+ height:200px;
   display: flex;
  flex-direction:row;
  justify-content:space-around;
@@ -48,7 +48,7 @@ height:105px;
   position: absolute;
    margin:75px 250px;/*venstre, topp*/
   width:200px;
-  height:305px;
+  height:200px;
  }
  .tekst1{
   width:210px;
