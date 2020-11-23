@@ -32,14 +32,6 @@
   margin:auto;/*like stor høyre og venstremarg*/
  }
 
- .bilde2{
- background-position:center;
- background-repeat:no-repeat;
- background-size:cover;
- width:100px;
- height:50px;
- position:relative;
- }
  .tekst1{
  }
 
