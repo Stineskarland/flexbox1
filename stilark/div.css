@@ -11,8 +11,8 @@
  background-size:cover;
  position:relative;
 }
-.topp
-
+.topp{
+height:105px;
 }
 .meny{
  justify-content:flex-start;
