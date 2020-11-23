@@ -1,9 +1,10 @@
-.dokument{
+.innpakning{
  width:595px;
  height:842px;
  display: flex;
  flex-direction:row;
  flex-wrap:wrap;
+}
 .topptekst {
  width:595px;
  height:105px;
