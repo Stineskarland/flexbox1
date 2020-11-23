@@ -1,8 +1,9 @@
-.innpakning{
- width:595px;
- height:842px;
- display:flex;
- flex-direction:column;
+.flex1 {
+width:446px;
+ height:200px;
+  display: flex;
+ flex-direction:row;
+ justify-content:space-around;
 }
 .topptekst {
  background-position:center;
@@ -46,18 +47,12 @@ width:595px;
  justify-content:space-around;
 }
  .bilde2{
-  position:absolute;
- top:300px;
- right:75px;
-  width:100px;
-  height:50px;
+ 
  }
  .tekst1{
-  width:210px;
  }
 
  .overskrift2{
-   width:446px;
   justify-content:space-around;
  }
 .flex2{
@@ -68,10 +63,9 @@ width:595px;
  height:200px;
 }
 .tekst2{
-  width:210px;
+ background-color:#FFFFFF
  }
  .tekst3{
-  width:210px;
    background-color:#F2F3F4; /*grå*/
 }
  .bunntekst{ 
