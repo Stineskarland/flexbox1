@@ -22,14 +22,14 @@
   margin:auto;/*like stor høyre og venstremarg*/
 }
 .overskrift1 {
-  width:595px;/*vidde innhold*/
+  width:446px;/*vidde innhold*/
   background-color:#ffffff; /*hvit*/ 
   padding:5px; /*avstand mellom bokskant og innhold*/
   margin:auto; /*like stor høyre og venstremarg*/
  
 }
 .ingress{
-  width:595px;/*vidde bunntekst*
+  width:446px;/*vidde bunntekst*
   background-color:#ffffff; /*hvit*/
   padding: 5px; /*avstand mellom bokskant og innhold*/
   margin:auto;/*like stor høyre og venstremarg*/
@@ -39,11 +39,11 @@
  flex-direction:row;
 }
  .bilde2{
-  width:280px;
+  width:210px;
 
  }
  .tekst1{
-  width:280px;
+  width:210px;
  }
 
  .overskrift2{
@@ -54,10 +54,10 @@
  flex-direction:row;
 }
 .tekst2{
-  width:1240px;
+  width:210px;
  }
  .tekst3{
-  width:620px;
+  width:210px;
    background-color:#F2F3F4; /*grå*/
 }
  .bunntekst{ 
