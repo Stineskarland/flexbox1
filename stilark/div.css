@@ -46,12 +46,9 @@ height:105px;
 }
  .bilde2{
   position: absolute;
-   margin:75px 235px 246px 540px;/*venstre, topp, høyre, bunn*/
+   margin:75px 235px;/*venstre, topp*/
   width:200px;
   height:305px;
- background-repeat:no-repeat;
- background-size:cover;
-
  }
  .tekst1{
   width:210px;
@@ -79,7 +76,7 @@ height:105px;
   width:595px; /*vidde bunntekst*/
   height:80px;
   background-color: #336600; /*grønn farge*/
-  color:FFFFFF;
+  color:ffffff;
   padding:5px; /*avstand mellom bokskant og innhold*/
   margin:auto;/*like stor høyre og venstremarg*/
   
