@@ -31,15 +31,14 @@
   padding: 5px; /*avstand mellom bokskant og innhold*/
   margin:auto;/*like stor høyre og venstremarg*/
  }
-.flex1{
-  width:446px;
- height:200px;
-  display: flex;
- flex-direction:row;
- justify-content:space-around;
-}
+
  .bilde2{
- 
+ background-position:center;
+ background-repeat:no-repeat;
+ background-size:cover;
+ width:100px;
+ height:50px;
+ position:relative;
  }
  .tekst1{
  }
@@ -47,13 +46,7 @@
  .overskrift2{
   justify-content:space-around;
  }
-.flex2{
-   display: flex;
- flex-direction:row;
-  justify-content:space-around;
- width:446px;
- height:200px;
-}
+
 .tekst2{
  background-color:#FFFFFF
  }
