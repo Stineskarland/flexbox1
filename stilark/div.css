@@ -10,7 +10,9 @@
  background-position:center;
  background-repeat:no-repeat;
  background-size:cover;
- position:relative;
+ position:absolute;
+ top:0px;
+ right:0px;
 }
 .topp{
 height:105px;
