@@ -5,6 +5,9 @@
  flex-direction:column;
 }
 .topptekst {
+ background-position:center;
+ background-repeat:no-repeat;
+ background-size:cover;
  width:595px;
  height:105px;
  position:absolute;
