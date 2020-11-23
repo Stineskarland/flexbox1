@@ -45,12 +45,12 @@ height:105px;
  justify-content:space-around;
 }
  .bilde2{
+  position: absolute;
+   margin:75px 235px 246px 540px;/*venstre, topp, høyre, bunn*/
   width:200px;
   height:305px;
-   background-position:center;
  background-repeat:no-repeat;
  background-size:cover;
- position:relative;
 
  }
  .tekst1{
