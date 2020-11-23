@@ -42,7 +42,7 @@ height:105px;
  height:305px;
   display: flex;
  flex-direction:row;
- justify-content:space-between;
+ justify-content:space-around;
 }
  .bilde2{
   width:200px;
@@ -59,7 +59,7 @@ height:105px;
 
  .overskrift2{
    width:446px;
-  justify-content:space-between;
+  justify-content:space-around;
  }
 .flex2{
    display: flex;
