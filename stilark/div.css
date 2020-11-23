@@ -46,8 +46,6 @@ height:105px;
  justify-content:space-around;
 }
  .bilde2{
-  position: absolute;
-   margin:75px 250px;/*venstre, topp*/
   width:200px;
   height:200px;
  }
