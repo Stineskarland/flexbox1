@@ -36,6 +36,11 @@
   padding: 5px; /*avstand mellom bokskant og innhold*/
   margin:auto;/*like stor høyre og venstremarg*/
  }
+.flex1{
+  display: flex;
+ flex-direction:row;
+ flex-wrap:wrap;
+}
  .bilde2{
   width:280px;
 
@@ -47,6 +52,11 @@
  .overskrift2{
    width:920px;
  }
+.flex2{
+  display: flex;
+ flex-direction:row;
+ flex-wrap:wrap;
+}
 .tekst2{
   width:1240px;
  }
