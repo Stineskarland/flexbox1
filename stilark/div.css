@@ -2,7 +2,7 @@
 width:446px;
  height:200px;
   display: flex;
- flex-direction:row;
+ flex-direction:column;
  justify-content:space-around;
 }
 .topptekst {
@@ -14,10 +14,9 @@ width:446px;
  position:relative;
 }
 .topp{
-width:595px;
+
 }
 .meny{
- height:20px;
  justify-content:flex-start;
   width:595px; /*vidde meny*/
   background-color: #336600; /*grønn farge*/
