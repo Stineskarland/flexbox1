@@ -47,6 +47,10 @@ height:105px;
  .bilde2{
   width:200px;
   height:305px;
+   background-position:center;
+ background-repeat:no-repeat;
+ background-size:cover;
+ position:relative;
 
  }
  .tekst1{
