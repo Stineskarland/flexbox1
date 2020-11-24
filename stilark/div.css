@@ -1,6 +1,7 @@
 .innpakning{
 width:2480px;
  height:3508px;
+ margin:auto;
 }
 .flex1{
  display:flex;
