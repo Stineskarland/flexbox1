@@ -1,6 +1,6 @@
 .innpakning{
-width:595px;
- height:842px;
+width:2480px;
+ height:3508px;
 }
 .flex1{
  display:flex;
@@ -11,8 +11,8 @@ width:595px;
  background-position:center;
  background-repeat:no-repeat;
  background-size:cover;
- width:595px;
- height:50px;
+ width:2408px;
+ height:220px;
  position:relative;
 }
 .topp{
@@ -21,7 +21,7 @@ width:595px;
 .meny{
  justify-content:flex-start;
  color:#ffffff;
-  width:595px; /*vidde meny*/
+  width:2408px; /*vidde meny*/
   background-color: #336600; /*grønn farge*/
   padding:5px; /*avstand mellom bokskant og innhold*/
   margin:auto;/*like stor høyre og venstremarg*/
@@ -35,8 +35,7 @@ width:595px;
  
 }
 .ingress{
-  width:446px;/*vidde bunntekst*/
-  height:60px;
+  width:2630px;/*vidde bunntekst*/
   background-color:#ffffff; /*hvit*/
   padding: 5px; /*avstand mellom bokskant og innhold*/
   margin:auto;/*like stor høyre og venstremarg*/
@@ -46,7 +45,7 @@ width:595px;
  flex-direction:row;
 }
  .tekst1{
-  width:446px;/*vidde bunntekst*/
+  width:1300px;/*vidde bunntekst*/
   background-color:#ffffff; /*hvit*/
   padding: 5px; /*avstand mellom bokskant og innhold*/
   margin:auto;/*like stor høyre og venstremarg*/
@@ -57,6 +56,7 @@ width:595px;
  }
 
 .bilde2{
+ width:1300px;
   justify-content:center;
   background-image:url(bilder/bilde2.JPG);
  background-position:center;
@@ -70,7 +70,7 @@ width:595px;
 .tekst2{
   justify-content:center;
  background-color:#FFFFFF;
-  width:446px;/*vidde bunntekst*/
+  width:1300px;/*vidde bunntekst*/
   padding: 5px; /*avstand mellom bokskant og innhold*/
   margin:auto;/*like stor høyre og venstremarg*/
  }
@@ -78,14 +78,13 @@ width:595px;
  .tekst3{
    justify-content:center;
    background-color:#F2F3F4; /*grå*/
-   width:446px;/*vidde bunntekst*/
+   width:1300px;/*vidde bunntekst*/
   padding: 5px; /*avstand mellom bokskant og innhold*/
   margin:auto;/*like stor høyre og venstremarg*/
 }
  .bunntekst{ 
   justify-content:center;
-  width:595px; /*vidde bunntekst*/
-  height:80px;
+  width:2630px; /*vidde bunntekst*/
   background-color: #336600; /*grønn farge*/
   color:#ffffff;
   padding:5px; /*avstand mellom bokskant og innhold*/
