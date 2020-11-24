@@ -7,6 +7,7 @@ width:2480px;
  flex-direction:column;
 }
 .topptekst {
+ margin:auto;
  background-image:url(bilder/bilde1.jpeg);
  background-position:center;
  background-repeat:no-repeat;
@@ -41,8 +42,10 @@ width:2480px;
   margin:auto;/*like stor høyre og venstremarg*/
  }
 .flex2{ 
+ width:2630px;
  display:flex;
  flex-direction:row;
+ margin:auto;
 }
  .tekst1{
   width:1300px;/*vidde bunntekst*/
@@ -53,9 +56,11 @@ width:2480px;
 
  .overskrift2{
   justify-content:center;
+  margin:auto;
  }
 
 .bilde2{
+ margin:auto;
  width:1300px;
   justify-content:center;
   background-image:url(bilder/bilde2.JPG);
@@ -66,6 +71,7 @@ width:2480px;
 .flex3{
  display:flex;
  flex-direction:row;
+ margin:auto;
 }
 .tekst2{
   justify-content:center;
