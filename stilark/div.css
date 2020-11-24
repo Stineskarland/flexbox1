@@ -34,6 +34,10 @@
  }
 
  .tekst1{
+  width:446px;/*vidde bunntekst*/
+  background-color:#ffffff; /*hvit*/
+  padding: 5px; /*avstand mellom bokskant og innhold*/
+  margin:auto;/*like stor høyre og venstremarg*/
  }
 
  .overskrift2{
@@ -42,9 +46,16 @@
 
 .tekst2{
  background-color:#FFFFFF
+  width:446px;/*vidde bunntekst*/
+  padding: 5px; /*avstand mellom bokskant og innhold*/
+  margin:auto;/*like stor høyre og venstremarg*/
  }
  .tekst3{
    background-color:#F2F3F4; /*grå*/
+   width:446px;/*vidde bunntekst*/
+  background-color:#ffffff; /*hvit*/
+  padding: 5px; /*avstand mellom bokskant og innhold*/
+  margin:auto;/*like stor høyre og venstremarg*/
 }
  .bunntekst{ 
   width:595px; /*vidde bunntekst*/
