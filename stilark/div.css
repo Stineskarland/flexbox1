@@ -16,6 +16,7 @@
 }
 .meny{
  justify-content:flex-start;
+ color:#ffffff;
   width:595px; /*vidde meny*/
   background-color: #336600; /*grønn farge*/
   padding:5px; /*avstand mellom bokskant og innhold*/
@@ -48,10 +49,11 @@
  }
 
  .overskrift2{
-  justify-content:space-around;
+  justify-content:center;
  }
 
 .bilde2{
+  justify-content:center;
   background-image:url(bilder/bilde2.JPG);
  background-position:center;
  background-repeat:no-repeat;
@@ -62,20 +64,22 @@
  flex-direction:row;
 }
 .tekst2{
- background-color:#FFFFFF
+  justify-content:center;
+ background-color:#FFFFFF;
   width:446px;/*vidde bunntekst*/
   padding: 5px; /*avstand mellom bokskant og innhold*/
   margin:auto;/*like stor høyre og venstremarg*/
  }
 
  .tekst3{
+   justify-content:center;
    background-color:#F2F3F4; /*grå*/
    width:446px;/*vidde bunntekst*/
-  background-color:#ffffff; /*hvit*/
   padding: 5px; /*avstand mellom bokskant og innhold*/
   margin:auto;/*like stor høyre og venstremarg*/
 }
  .bunntekst{ 
+  justify-content:center;
   width:595px; /*vidde bunntekst*/
   height:80px;
   background-color: #336600; /*grønn farge*/
