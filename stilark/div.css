@@ -8,13 +8,10 @@ width:2480px;
  flex-direction:column;
 }
 .topptekst {
- margin:auto;
  background-image:url(bilder/bilde1.jpeg);
  background-position:center;
  background-repeat:no-repeat;
  background-size:cover;
- width:2408px;
- height:220px;
  position:relative;
 }
 .topp{
@@ -61,13 +58,11 @@ width:2480px;
  }
 
 .bilde2{
- margin:auto;
- width:1300px;
-  justify-content:center;
   background-image:url(bilder/bilde2.JPG);
  background-position:center;
  background-repeat:no-repeat;
  background-size:cover;
+ position:relative;
 }
 .flex3{
  display:flex;
