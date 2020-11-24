@@ -1,3 +1,7 @@
+.innpakning{
+width:595px;
+ height:842px;
+}
 .flex1{
  display:flex;
  flex-direction:column;
