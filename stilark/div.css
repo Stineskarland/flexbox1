@@ -16,12 +16,12 @@
 }
 .meny{
     
-    width:1600px;
+    width:1200px;
     background-color:#336600;
     color:#FFFFFF;
       padding:12px;
     font-family:sans-serif;
- margin:auto;
+    margin:auto;
 }
 
 .meny a{
