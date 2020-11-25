@@ -17,14 +17,14 @@
 .menu{
     
     height:26px;
-    background-color: forestgreen;
-    color:white;
+    background-color:#336600;
+    color:#FFFFFF;
       padding:12px;
     font-family:Helvetica,Arial;
 }
 
 .menu a{
-    color:white;
+    color:#FFFFFF;
     text-decoration: none;
       display:inline;
     width:200px;
@@ -33,7 +33,7 @@
 }
 
 .menu a:visited{
-    color:white;
+    color:#FFFFFF;
 }
 
 .innpakning{
@@ -59,10 +59,10 @@
     margin:1%;
 }
 
-body{
+.body{
    
-    font-family:Helvetica,Arial;
-    font-size:18px;
+    font-family:Arial;
+    font-size:22px;
    
 }
 
@@ -81,14 +81,14 @@ body{
     width:29%;
     margin:1%;
     padding:1%;
-    background-color:lightgray;
+    background-color:#F2F3F4;
 }
 
 .footer{
 
     height:60px;
-    background-color:forestgreen;
-    color:white;
+    background-color:#336600;
+    color:#FFFFFF;
     text-align:center;
     padding-top: 15px;
 }
