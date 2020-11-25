@@ -1,7 +1,6 @@
  .topptekst {
 
     background-image: url("bilder/La_Morra.jpeg");
-    height: 10%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -20,7 +19,7 @@
     background-color:#336600;
     color:#FFFFFF;
       padding:12px;
-    font-family:Helvetica,Arial;
+    font-family:Arial;
 }
 
 .menu a{
