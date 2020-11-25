@@ -14,7 +14,7 @@
 
 
 }
-.menu{
+.meny{
     
     height:26px;
     background-color:#336600;
@@ -23,7 +23,7 @@
     font-family:Impact,sans-serif;
 }
 
-.menu a{
+.meny a{
     color:#FFFFFF;
     text-decoration: none;
       display:inline;
@@ -32,7 +32,7 @@
     padding:20px;
 }
 
-.menu a:visited{
+.meny a:visited{
     color:#FFFFFF;
 }
 
